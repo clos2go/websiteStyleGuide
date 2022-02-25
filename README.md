@@ -1,5 +1,3 @@
--
-
 # Website Style Guide Practice Excericise
 
 ## Colors:
