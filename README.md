@@ -1,8 +1,8 @@
 # Website Style Guide Practice Excericise
 
-## Colors:
+## Colors
 
-### Main Colors:
+### Main Colors
 
 Seafoam: #aed6dc  
 Salmon = #ff9a8d;
@@ -15,15 +15,15 @@ Charcoal = Hex #36454F;
 Teal: #316879
 Coral: #f47a60;
 Tart Orange: #f94c4f;
-Turquoise: #7fe7dc
+Turquoise: #7fe7dc;
 
-## Fonts:
+## Fonts
 
-### Shizuru:
+### Shizuru
 
 font-family: 'Shizuru', cursive;
 
-### Permanent Marker:
+### Permanent Marker
 
 font-family: 'Permanent Marker', cursive;
 
@@ -31,7 +31,7 @@ font-family: 'Permanent Marker', cursive;
 
 font-family: 'Righteous', cursive;
 
-## Sections:
+## Sections
 
 Colors
 Fonts
