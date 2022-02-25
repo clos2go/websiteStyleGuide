@@ -1,29 +1,40 @@
-\*\*Colors:
+-
 
-\*\*\*Main Colors:
+# Website Style Guide Practice Excericise
+
+## Colors:
+
+### Main Colors:
+
 Seafoam: #aed6dc  
 Salmon = #ff9a8d;
 NavDull Rose: HEX #BE6491
 Grey: #ced7d8;
 Charcoal = Hex #36454F;
 
-\*\*Possible Colors
+### Possible Colors
+
 Teal: #316879
 Coral: #f47a60;
 Tart Orange: #f94c4f;
 Turquoise: #7fe7dc
 
-\*\*Fonts:
+## Fonts:
 
-Specific Text Styles for Elements:
-Shizuru:
-font-family: 'Permanent Marker', cursive;
-font-family: 'Righteous', cursive;
+### Shizuru:
+
 font-family: 'Shizuru', cursive;
 
-\*\*Sections:
+### Permanent Marker:
+
+font-family: 'Permanent Marker', cursive;
+
+### Righteous
+
+font-family: 'Righteous', cursive;
+
+## Sections:
+
 Colors
 Fonts
 TextStyles
-
-# websiteStyleGuide
