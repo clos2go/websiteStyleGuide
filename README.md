@@ -6,7 +6,8 @@
 
 Seafoam: #aed6dc  
 Salmon = #ff9a8d;
-NavDull Rose: HEX #BE6491
+Navy =
+Dull Rose: #BE6491
 Grey: #ced7d8;
 Charcoal = Hex #36454F;
 

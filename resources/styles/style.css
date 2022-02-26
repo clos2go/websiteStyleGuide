@@ -10,7 +10,7 @@ Charcoal = Hex #36454F;
 
 
 Teal: #316879
-Coral:  #f47a60;
+Coral:  #7fe7dc;
 Tart Orange: #f94c4f;
 Turquoise: #7fe7dc
 
@@ -30,19 +30,28 @@ ul.main-nav {
 	list-style: none;
 }
 
-h2,
-h3,
 a {
 	color: #36454f;
 	padding: 10px;
-}
-
-a {
 	text-decoration: none;
 }
 
 p {
-	line-height: 1.5;
+	line-height: 1.2;
+	font-size: 0.75em;
+}
+
+h2 {
+	padding: 100px 0px 0px 10px;
+}
+
+h3 {
+	font-size: 1em;
+}
+
+p {
+	font-size: 0.75em;
+	overflow: auto;
 }
 
 .logo,
@@ -79,16 +88,18 @@ p {
 	border-radius: 15px;
 }
 
+/* Content Container */
 .container {
-	max-width: 95%;
+	max-width: 98%;
+	display: inline-flex;
 	margin: 0 auto;
-	display: inline-flx;
 }
 
+/* Card Container */
 .card-column {
-	width: 50%;
-	float: left;
-	padding: 4%;
+	width: 48%;
+	padding: 1%;
+	margin: 0 auto;
 }
 
 .colum-1 {
@@ -100,7 +111,6 @@ p {
 	max-width: 800px;
 	padding: 0px auto;
 	position: relative;
-	background: #be6491;
 	color: #fff;
 	cursor: pointer;
 	margin-bottom: 60px;
@@ -116,27 +126,94 @@ p {
 	left: -6px;
 	top: -6px;
 }
-.card h1 {
-	position: relative;
-	padding: 190px 0px 100px 10px;
-	width: 90%;
-}
+
 .card > img {
-	width: 30%;
+	width: 20%;
 	border-radius: 15%;
 	position: absolute;
 	top: -6%;
 	left: -6%;
 }
 
+.card-color-0 {
+	background-color: #ff9a8d;
+}
+
 .card-color-1 {
-	background-color: #658b97;
+	background-color: #aed6dc;
 }
 
 .card-color-2 {
-	background-color: #8ac3be;
+	background-color: #316879;
+}
+.card-color-3 {
+	background-color: #be6491;
 }
 
-.card-color-3 {
+/* Color Blocks Section*/
+.color-blocks {
+	margin: 0px auto;
+	background-color: #ffffff59;
+	padding: 2em;
+	text-align: center;
+	width: 100%;
+}
+
+div.colors {
+	margin: 0px auto;
+	width: 32%;
+	display: inline-block;
+	padding: 1%;
+	border: 1px solid #316879;
+	border-radius: 5px;
+	color: #4a536b;
+}
+
+div.color0 {
+	background-color: #aed6dc;
+}
+
+div.color1 {
 	background-color: #ff9a8d;
+}
+
+div.color2 {
+	background-color: #4a536b;
+	color: #ced7d8;
+}
+
+/* All other Blocks */
+
+.font-blocks,
+.text-blocks,
+.holder-blocks {
+	margin: 0px auto;
+	background-color: #ffffff59;
+	padding: 2em;
+	width: 100%;
+}
+
+div.fonts,
+div.texts,
+div.holders {
+	margin: 0px auto;
+	width: 32%;
+	display: inline-block;
+	padding: 1%;
+	border-radius: 5px;
+	color: #4a536b;
+}
+
+/* Font Sections Text */
+
+div.font0 {
+	font-family: "Shizuru", cursive;
+}
+
+div.font1 {
+	font-family: "Permanent Marker", cursive;
+}
+
+div.font2 {
+	font-family: "Righteous", cursive;
 }
